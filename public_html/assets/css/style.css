@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Puzzle';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Puzzle'), url('../font/Puzzle_font.woff') format('woff');
+}
